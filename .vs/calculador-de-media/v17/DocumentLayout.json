@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|solutionrelative:calcmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|d:\\workspace\\vs-workspace\\calcmedia\\calcmedia\\calcmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|D:\\Workspace\\vs-workspace\\CalcMedia\\CalcMedia\\calcmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|solutionrelative:calcmedia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|d:\\workspace\\vs-workspace\\calcmedia\\calcmedia\\calcmedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|D:\\Workspace\\vs-workspace\\CalcMedia\\CalcMedia\\calcmedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F8A66EA-4DD6-4144-B4BA-1640F2288721}|CalcMedia\\calculador-de-media.csproj|solutionrelative:calcmedia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "ToolTip": "D:\\Workspace\\vs-workspace\\CalcMedia\\CalcMedia\\CalcMedia\\Form1.cs [Design]",
               "RelativeToolTip": "CalcMedia\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:39:21.642Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-11-05T19:39:21.642Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "CalcMedia\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:39:23.624Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T19:39:23.624Z"
             }
           ]
         }
